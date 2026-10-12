@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">loginAppAS</string>
+    <string name="title_register">Rejestruj konto</string>
+    <string name="label_email">Podaj e-mail:</string>
+    <string name="label_password">Podaj hasło:</string>
+    <string name="label_repeat_password">Powtórz hasło:</string>
+    <string name="button_confirm">ZATWIERDŹ</string>
+    <string name="welcome_message">Witaj ewa@poczta.pl</string>
+    <string name="default_email">ewa@poczta.pl</string>
+    <string name="default_password">abc123</string>
+</resources>
